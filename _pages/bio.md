@@ -1,4 +1,5 @@
 ---
+layout: archive
 permalink: /bio/
 title: "Bio"
 excerpt: "Bio"
