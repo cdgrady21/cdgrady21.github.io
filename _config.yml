@@ -56,6 +56,7 @@ alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
+<!--
 twitter:
   username               : &twitter
 facebook:
@@ -69,7 +70,7 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
-
+-->
 
 # Analytics
 analytics:
@@ -83,6 +84,7 @@ author:
   name             : "Christopher D. Grady"
   avatar           : "profile.png"
   bio              : "Senior Metrics Advisor, USAID"
+  <!--
   location         : ""
   employer         :
   pubmed           : ""
@@ -115,7 +117,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-
+-->
 
 # Reading Files
 include:
