@@ -4,8 +4,8 @@ permalink: /bio/
 title: "Bio"
 author_profile: true
 redirect_from: 
-  - /bio/
-  - /bio.html
+  - "/bio/"
+  - "/bio.html"
 ---
 
 I am from Grand Rapids, MI.  After high school, I attended Grand Rapids Community College before transferring to the University of Michigan.  After graduation I worked for Environment Michigan and then accepted admission to the University of Illinois.
