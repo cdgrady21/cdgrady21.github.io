@@ -2,7 +2,6 @@
 layout: archive
 permalink: /bio/
 title: "Bio"
-excerpt: "Bio"
 author_profile: true
 redirect_from: 
   - /bio/
