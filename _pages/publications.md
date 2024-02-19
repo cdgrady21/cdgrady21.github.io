@@ -30,7 +30,7 @@ Danjuma Dawop, **Christopher Grady**, Lisa Inks, and Rebecca Wolfe. "Engaging Co
 
 
 ## Other publications
-**Christopher Grady**. "NSF Grants in Legislative Politics: An Interview with Brian Humes." [Legislative Scholar](http://www.legislativestudies.org/wp-content/uploads/2017/04/The_Legislative_Scholar_Spring_2017.pdf), Spring 2017}.
+**Christopher Grady**. "NSF Grants in Legislative Politics: An Interview with Brian Humes." [Legislative Scholar](http://www.legislativestudies.org/wp-content/uploads/2017/04/The_Legislative_Scholar_Spring_2017.pdf), Spring 2017.
 
 
 ## Dissertation
