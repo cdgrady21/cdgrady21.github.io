@@ -10,6 +10,7 @@ author_profile: true
 
 **Christopher Grady**, Alice Iannantuoni, and Matthew Winters. "Influencing the means but not the ends: The role of entertainment-education interventions in development." [World Development] (https://www.sciencedirect.com/science/article/abs/pii/S0305750X20303272), 2021.
 
+
 ## Book chapters
 Gustavo Diaz, **Christopher Grady**, and James Kuklinski. "Survey Experiments and the Quest for Valid Interpretation."  In Franzese and Curini, ed. [Sage Handbook of Research Methods in Political Science and International Relations](https://methods.sagepub.com/Book/research-methods-in-political-science-and-international-relations/i8437.xml).  London: Sage, 2020.
 
@@ -27,8 +28,10 @@ Danjuma Dawop, **Christopher Grady**, Lisa Inks, and Rebecca Wolfe. "Engaging Co
 
 **Christopher Grady** and Rebecca Chapman. "New Media in Burkina Faso, Chad, and Niger: Survey Results and Analysis." [USAID Reports](https://www.equalaccess.org/wp-content/uploads/2018/11/New-Media-in-BFChadNiger-PTDII-Survey.pdf), 2015.
 
+
 ## Other publications
 **Christopher Grady**. "NSF Grants in Legislative Politics: An Interview with Brian Humes." [Legislative Scholar](http://www.legislativestudies.org/wp-content/uploads/2017/04/The_Legislative_Scholar_Spring_2017.pdf), Spring 2017}.
+
 
 ## Dissertation
 **Christopher Grady**. "Group conflict and intergroup contact." [PhD Dissertation](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://core.ac.uk/download/pdf/334979842.pdf), 2020.
