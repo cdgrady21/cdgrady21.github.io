@@ -24,7 +24,7 @@ Gustavo Diaz, **Christopher Grady**, and James Kuklinski. "Survey Experiments an
 ## Policy Reports
 Danjuma Dawop, **Christopher Grady**, Lisa Inks, and Rebecca Wolfe. "Engaging Communities for Peace in Nigeria: Impact Evaluation." [Mercy Corps Reports](https://www.corps.org/research/does-peacebuilding-work-midst-conflict), 2019.
 
-**Christopher Grady**. "Aid For Peace: Does Foreign Aid Deter Violence?" [International Foundation for Electoral Systems Fellowship Report](https://scholar.google.fi/citations?view_op=view_citation&hl=fr&user=EzZKouQAAAAJ&citation_for_view=EzZKouQAAAAJ:u5HHmVD_uO8C)
+**Christopher Grady**. "Aid For Peace: Does Foreign Aid Deter Violence?" [International Foundation for Electoral Systems Fellowship Report](https://scholar.google.fi/citations?view_op=view_citation&hl=fr&user=EzZKouQAAAAJ&citation_for_view=EzZKouQAAAAJ:u5HHmVD_uO8C), 2017.
 
 **Christopher Grady** and Rebecca Chapman. "New Media in Burkina Faso, Chad, and Niger: Survey Results and Analysis." [USAID Reports](https://www.equalaccess.org/wp-content/uploads/2018/11/New-Media-in-BFChadNiger-PTDII-Survey.pdf), 2015.
 
