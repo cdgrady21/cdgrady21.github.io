@@ -34,7 +34,7 @@ Danjuma Dawop, **Christopher Grady**, Lisa Inks, and Rebecca Wolfe. "Engaging Co
 
 
 ## Dissertation
-**Christopher Grady**. "Group conflict and intergroup contact." [PhD Dissertation](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://core.ac.uk/download/pdf/334979842.pdf), 2020.
+**Christopher Grady**. "Group conflict and intergroup contact." [PhD Dissertation](https://core.ac.uk/download/pdf/334979842.pdf), 2020.
 
 My [Googlescholar profile](https://scholar.google.com/citations?user=EzZKouQAAAAJ&hl=en&oi=sra).
 
