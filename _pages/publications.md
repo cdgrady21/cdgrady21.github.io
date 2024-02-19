@@ -23,6 +23,8 @@ Danjuma Dawop, **Christopher Grady**, Lisa Inks, and Rebecca Wolfe. "Engaging Co
 
 **Christopher Grady** and Rebecca Chapman. "New Media in Burkina Faso, Chad, and Niger: Survey Results and Analysis." [USAID Reports](https://www.equalaccess.org/wp-content/uploads/2018/11/New-Media-in-BFChadNiger-PTDII-Survey.pdf), 2015.
 
+**Christopher Grady**. "Group conflict and intergroup contact." [PhD Dissertation](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://core.ac.uk/download/pdf/334979842.pdf), 2020.
+
 My [Googlescholar profile](https://scholar.google.com/citations?user=EzZKouQAAAAJ&hl=en&oi=sra).
 
 <!--
