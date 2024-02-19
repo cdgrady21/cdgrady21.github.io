@@ -8,7 +8,7 @@ author_profile: true
 ## Peer-reviewed journal articles
 **Christopher Grady**, Rebecca Wolfe, Danjuma Dawop, and Lisa Inks. "How contact can promote societal change amid conflict: An intergroup contact field experiment in Nigeria" [Proceedings of the National Academy of Sciences](https://www.pnas.org/doi/abs/10.1073/pnas.2304882120), 2023.
 
-**Christopher Grady**, Alice Iannantuoni, and Matthew Winters. "Influencing the means but not the ends: The role of entertainment-education interventions in development." [World Development] (https://www.sciencedirect.com/science/article/abs/pii/S0305750X20303272), 2021.
+**Christopher Grady**, Alice Iannantuoni, and Matthew Winters. "Influencing the means but not the ends: The role of entertainment-education interventions in development." [World Development](https://www.sciencedirect.com/science/article/abs/pii/S0305750X20303272), 2021.
 
 
 ## Book chapters
