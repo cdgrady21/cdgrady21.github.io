@@ -11,7 +11,7 @@ author_profile: true
 **Christopher Grady**, Alice Iannantuoni, and Matthew Winters. "Influencing the means but not the ends: The role of entertainment-education interventions in development." [World Development] (https://www.sciencedirect.com/science/article/abs/pii/S0305750X20303272), 2021.
 
 ## Book chapters
-Gustavo Diaz, **Christopher Grady**, and James Kuklinski. "Survey Experiments and the Quest for Valid Interpretation."  In Franzese and Curini, ed. [Sage Handbook of Research Methods in Political Science and International Relations]({https://methods.sagepub.com/Book/research-methods-in-political-science-and-international-relations/i8437.xml).  London: Sage, 2020.
+Gustavo Diaz, **Christopher Grady**, and James Kuklinski. "Survey Experiments and the Quest for Valid Interpretation."  In Franzese and Curini, ed. [Sage Handbook of Research Methods in Political Science and International Relations](https://methods.sagepub.com/Book/research-methods-in-political-science-and-international-relations/i8437.xml).  London: Sage, 2020.
 
 
 ## Methodology Guides
