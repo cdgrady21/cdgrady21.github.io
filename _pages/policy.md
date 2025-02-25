@@ -20,13 +20,13 @@ author_profile: true
 
 ### Metrics Editions
 
-[Democracy Metrics 2021: Democracy Under Threat.](https://www.drglinks.org/learning-digest/annual-democracy-metrics-2021)
-
-[Democracy Metrics 2022: Understanding Global Trends in Democracy and Governance.](https://content.govdelivery.com/accounts/USAIDHQ/bulletins/32591ab)
+[Democracy Metrics 2024: Soul Searching Amidst Decline.](https://content.govdelivery.com/accounts/USAIDHQ/bulletins/3a4ce89)
 
 [Democracy Metrics 2023: Stagnation, Resilience, and Controversy.](https://content.govdelivery.com/accounts/USAIDHQ/bulletins/361ab25)
 
-[Democracy Metrics 2024: Soul Searching Amidst Decline.](https://content.govdelivery.com/accounts/USAIDHQ/bulletins/3a4ce89)
+[Democracy Metrics 2022: Understanding Global Trends in Democracy and Governance.](https://content.govdelivery.com/accounts/USAIDHQ/bulletins/32591ab)
+
+[Democracy Metrics 2021: Democracy Under Threat.](https://www.drglinks.org/learning-digest/annual-democracy-metrics-2021)
 
 [Democracy Metrics Survey Edition: Findings from International Surveys.](https://www.drglinks.org/learning-digest/findings-international-surveys-2021)
 
