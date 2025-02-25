@@ -85,9 +85,9 @@ author:
   #location         : "Washington, D.C."
   #employer         :
   #pubmed           : ""
-  #googlescholar    : "https://scholar.google.com/citations?user=W8sq3zsAAAAJ&hl=en"
+  googlescholar    : "https://scholar.google.com/citations?user=W8sq3zsAAAAJ&hl=en"
   email            : "cdgrady21[at]gmail[dot]com"
-  #researchgate     :  "https://www.researchgate.net/profile/Christopher-Grady-2"
+  researchgate     :  "https://www.researchgate.net/profile/Christopher-Grady-2"
   #uri              :
   #bitbucket        :
   #codepen          :
@@ -95,14 +95,14 @@ author:
   #flickr           :
   #facebook         :
   #foursquare       :
-  #github           : "cdgrady21"
+  github           : "cdgrady21"
   #google_plus      :
   #keybase          :
   #instagram        :
   #impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   #lastfm           :
   #linkedin         :
-  #orcid            : "https://orcid.org/0000-0001-6119-3035"
+  orcid            : "https://orcid.org/0000-0001-6119-3035"
   #pinterest        :
   #soundcloud       :
   #stackoverflow    : # http://stackoverflow.com/users/123456/username
