@@ -103,6 +103,8 @@ Conceptualizing and Measuring Human Rights -
 
 Democracy Data - Yale
 
+Bocconi University - Fieldwork and Field Experiments
+
 ## Select Organized Events
 
 EGAP 2023: Policymaker priorities and practitioner updates on important programmatic initiatives
