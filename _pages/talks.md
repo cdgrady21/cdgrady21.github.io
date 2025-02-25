@@ -9,7 +9,12 @@ author_profile: true
 
 ## Select Policy Presentations
 
+EGAP 2023: Research in the Bureau for Democracy, Human Rights, and Governance
+
+EGAP 2022: Research in the Center for Democracy, Human Rights, and Governance
+
 Annual Learning Forum 2024 - Did we succeed? All you ever wanted to know but were afraid to ask about developing robust outcome indicators
+
 Annual Learning Forum 2023 - Recent Advances in Quasi-experimental research methods
 
 Presentation to State Dept: "Findings from the Youth Engagement Survey Experiment"
@@ -46,10 +51,6 @@ DRG GLobal Gathering 2021 - "Democracy Delivers: The Tangible Benefits of Democr
 
 
 ## Select Academic Presentations
-
-EGAP 2024
-
-EGAP 2023
 
 Illinois 2021 Malawi project (also MPSA 2021?)
 
@@ -101,3 +102,12 @@ MPSA 2014 – “Playing to Your Audience: The Medium of Information and Informa
 Conceptualizing and Measuring Human Rights - 
 
 Democracy Data - Yale
+
+## Organized Events/Talks
+
+EGAP 2023: Policymaker priorities and practitioner updates on important programmatic initiatives
+
+Year of Action 2022
+
+EL Talk Series
+
