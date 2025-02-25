@@ -14,7 +14,7 @@ author_profile: true
 
 [A Case for Demoracy (Part 2): Economic Growth, Global Peace, Climate Change, and Transparency.](https://content.govdelivery.com/accounts/USAIDHQ/bulletins/33d2f61)
 
-[The AI Takeover: Is AI Scary? And How Can Development Harness the Power of Large Language Models? (Halloween Edition)](https://www.ictworks.org/wp-content/uploads/2023/10/DRG-Learning-Digest.pdf)
+[The AI Takeover: Is AI Scary? And How Can Development Harness the Power of Large Language Models? (Halloween Edition).](https://www.ictworks.org/wp-content/uploads/2023/10/DRG-Learning-Digest.pdf)
 
 [Democratization and Backsliding: Theories and Evidence.](https://www.drglinks.org/sites/default/files/2024-02/LER%20II%20CB002%20Learning%20Digest%20%2324%20Democratization%20FINAL.docx.pdf)
 
