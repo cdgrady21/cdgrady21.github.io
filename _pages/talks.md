@@ -22,7 +22,7 @@ author_profile: true
 
 “Power and Pitfalls of IVR and SMS for Monitoring and Evaluation of Development Projects.” Monitoring, Evaluation, Research and Learning (MERL) Technology Conference, 2016, Washington, D.C.
 
-“Peace-Building in Nigeria.” The Program in Arms Control and Domestic and International Security (ACDIS), 2016, Urbana, IL.
+“Conflict and Peacebuilding in Nigeria.” The Program in Arms Control and Domestic and International Security (ACDIS), 2016, Urbana, IL.
 
 <!--
 Illinois Center for African Studies 2023 - Decentralization, Service Delivery, and Taxation
