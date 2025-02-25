@@ -39,6 +39,7 @@ Danjuma Dawop, **Christopher Grady**, Lisa Inks, and Rebecca Wolfe. "Engaging Co
 ## Other
 My [Googlescholar profile](https://scholar.google.com/citations?user=EzZKouQAAAAJ&hl=en&oi=sra).
 
+<!--
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{[author.googlescholar]([https://scholar.google.com/citations?user=EzZKouQAAAAJ&hl=en&oi=sra](https://scholar.google.com/citations?user=W8sq3zsAAAAJ&hl=en))}}">my Google Scholar profile</a>.</u>
 {% endif %}
@@ -46,3 +47,4 @@ My [Googlescholar profile](https://scholar.google.com/citations?user=EzZKouQAAAA
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
+-->
