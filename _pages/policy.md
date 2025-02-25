@@ -20,7 +20,7 @@ Democratization and Backsliding: Theories and Evidence
 
 Democracy Metrics 2021: Democracy Under Threat
 
-Democracy Metrics 2022: Understanding global trends
+Democracy Metrics 2022: Understanding Global Trends in Democracy and Governance
 
 Democracy Metrics 2023: Stagnation, Resilience, and Controversy
 
