@@ -6,17 +6,27 @@ author_profile: true
 ---
 
 ## Bureau of Democracy, Rights, and Governance Monthly "Learning Digest" Newsletter
-**A Case for Democracy: Part 1**
+### Topical Editions
 
-**A Case for Demoracy: Part 2**
+A Case for Democracy (Part 1): Public Goods Provision, Social Protections, Education, and Health.
 
-**Is AI Scary?**
+A Case for Demoracy (Part 2): Economic Growth, Global Peace, Climate Change, and Transparency. 
 
-**Democracy Metrics 2022: Understanding global trends"
+The AI Takeover: Is AI Scary? And how can Development Harness the Power of Large Language Models (Halloween Edition)
 
-**Democracy Metrics 2023: Stagnation, Resilience, and Controversy**
+Democratization and Backsliding: Theories and Evidence
 
-**Democracy Metrics 2024: Soul Searching Amidst Decline**
+### Metrics Editions
+
+Democracy Metrics 2021: Democracy Under Threat
+
+Democracy Metrics 2022: Understanding global trends
+
+Democracy Metrics 2023: Stagnation, Resilience, and Controversy
+
+Democracy Metrics 2024: Soul Searching Amidst Decline
+
+Democracy Metrics Survey Edition: Findings from International Surveys
 
 
 
