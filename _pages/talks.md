@@ -17,6 +17,7 @@ author_profile: true
 <!--
 "Aid for Peace: The Effect of Governance Aid on Political Violence in Africa." International Foundation for Electoral Systems, 2016, Washington, D.C.
 -->
+
 "The Effects of Arewa24 on Attitude about Tolerance, Violence, and Women’s Empowerment in Northern Nigeria." U.S. Department of State, 2017, Washington, D.C.
 
 “Power and Pitfalls of IVR and SMS for Monitoring and Evaluation of Development Projects.” Monitoring, Evaluation, Research and Learning (MERL) Technology Conference, 2016, Washington, D.C.
