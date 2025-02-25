@@ -103,11 +103,12 @@ Conceptualizing and Measuring Human Rights -
 
 Democracy Data - Yale
 
-## Organized Events/Talks
+## Select Organized Events
 
 EGAP 2023: Policymaker priorities and practitioner updates on important programmatic initiatives
 
-Year of Action 2022
+Summit for Democracy Year of Action Panel (2022)
 
-EL Talk Series
+Evidence and Learning Talk Series (20+ events from 2022-2024)
+- 
 
