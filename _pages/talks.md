@@ -25,6 +25,8 @@ author_profile: true
 “Conflict and Peacebuilding in Nigeria.” The Program in Arms Control and Domestic and International Security (ACDIS), 2016, Urbana, IL.
 
 <!--
+MPSA 2018 - Chair of Survey Quality panel.
+
 Illinois Center for African Studies 2023 - Decentralization, Service Delivery, and Taxation
 
 Illinois Center for African Studies 2023 - Bridging Research and Policy through Government-Research Collaborations
