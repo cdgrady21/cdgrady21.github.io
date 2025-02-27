@@ -5,11 +5,13 @@ title: "Learning to Code"
 author_profile: true
 ---
 
-Many colleagues have asked me about resources for learning R, Python, and causal inference statistics. I'm not expert enough in Python to recommend good learning resources, but here I've recommended my favorite resources resources for learning the basics of R, how to use R for particular tasks, and for learning the basics of causal inference. To keep the list manageable, I've limited it to one resource for learning the basics of R, five resources for learning how to use R for specific tasks, and one causal inference resource.
+Many colleagues have asked me about resources for learning R, Python, and causal inference statistics. I'm not expert enough in Python to recommend good learning resources, but here I've recommended my favorite resources for learning the basics of R, how to use R for particular tasks, and for learning the basics of causal inference.
 
-These are all free, online resources. They give you code that you can easily copy & paste into your R console, which allows you to play around with R and learn by doing. If you are brand new to coding, I recommend starting with the first resource (Hands-On Programming with R) and then selecting other options based on your learning interests.
+These are all free, online resources. They give you code that you can easily copy & paste into your R console, which allows you to play around with R and learn by doing. To keep the list manageable, I've limited it to one resource for learning the basics of R, five resources for learning how to use R for specific tasks, and one resource for causal inference in R.
 
+If you are brand new to coding, I recommend starting with the first resource (Hands-On Programming with R) and then selecting other options based on your learning interests.
 
+&nbsp;
 
 ********
 # Learning R
@@ -18,9 +20,11 @@ These are all free, online resources. They give you code that you can easily cop
 
 This book will teach you the basics of programming in R. It is written it for non-programmers and provides a friendly introduction to the R language. Throughout the book, you’ll use your newfound skills to solve practical data science problems. Start here.
 
-# Using R for specific tasks
+&nbsp;
 
-**Data Science**: [R for Data Science](https://r4ds.hadley.nz)
+# Specific tasks in R
+
+**Data science**: [R for Data Science](https://r4ds.hadley.nz)
 
 This online book will walk you through everything you need to get started using R for data science. It is comprehensive and will provide you with a solid foundation for learning to do other tasks in R. This is a good place to start if you have some prior experience with R.
 
@@ -44,7 +48,9 @@ This is "a practical guide that provides more than 150 recipes to help you gener
 
 "This book is designed to take you from knowing nothing about Shiny to being an expert developer who can write large complex apps that are still maintainable and performant. You’ll gain a deep understanding of the reactive programming model that underlies Shiny, as well as building a tool box of useful techniques to solve common app challenges."
 
-# Causal Inference
+&nbsp;
+
+# Causal Inference in R
 
 [Causal Inference: The Mixtape](https://mixtape.scunning.com/) 
 
