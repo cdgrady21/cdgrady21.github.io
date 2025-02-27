@@ -50,13 +50,11 @@ This is "a practical guide that provides more than 150 recipes to help you gener
 
 &nbsp;
 
-# Bonus: General coding assistance
-
-[Cursor](https://www.cursor.com/en)
+# General coding assistance
 
 Learning a coding language is much like learning any other language. The guides on this page will help, but sometimes you need a translator. AI coding tools can function like a translator, both (1) translating your words into a coding language, and (2) translating code into words understandable to you. This does not mean AI will code for you; using a translator requires you to know what you want to say, to say it precisely, and (sometimes) to identify when the translator has made a mistake!  But I have found these AI translators very helpful, especially for learning new tasks and for troubleshooting when code goes wrong.
 
-There are many good AI tools for coding assistance, but I recommend Cursor. It provides a text editor where you can write your code, and a built in AI chat window that can see the code in the text editor, explain what the code is doing, and recommend improvements. It also allows you to interact with several AI language models.
+There are many good AI tools for coding assistance, but I recommend [Cursor](https://www.cursor.com/en). It provides a text editor where you can write your code, and a built in AI chat window that can see the code in the text editor, explain what the code is doing, and recommend improvements. It also allows you to interact with several AI language models.
 
 Good luck!
 
