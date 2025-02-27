@@ -17,7 +17,7 @@ These are all free, online resources. They give you code that you can easily cop
 
 This book will teach you the basics of programming in R. It is written it for non-programmers and provides a friendly introduction to the R language. Throughout the book, you’ll use your newfound skills to solve practical data science problems. Start here.
 
-## Using R
+&nbsp;
 
 **Data Science**: [R for Data Science](https://r4ds.hadley.nz)
 
