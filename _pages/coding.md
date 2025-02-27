@@ -23,14 +23,9 @@ This book will teach you the basics of programming in R. It is written it for no
 This online book will walk you through everything you need to get started using R for data science. It is comprehensive and will provide you with a solid foundation for learning to do other tasks in R. This is a good place to start if you have some prior experience with R.
 
 
-**Applied Statistics**: [Applied Statistics with R](https://book.stat420.org/)
-
-This book serves as an introduction to statistics in R and an introduction to the R programming language. It was designed for use with STAT 420, Methods of Applied Statistics, at the University of Illinois Urbana-Champaign. It is a good place to start if you have some prior experience with statitsics.
-
-
 **Machine learning**: [Basics of Statistical Learning](https://statisticallearning.org/index.html)
 
-This online version of a stats course at the University of Illinois provides "a broad introduction to machine learning from the perspective of a statistician who uses R and emphasizes practice over theory".
+This online version of a stats course at the University of Illinois provides "a broad introduction to machine learning from the perspective of a statistician who uses R and emphasizes practice over theory". Good for people with a basic understanding of R and Regression.
 
 
 **Distributed computing**: [Mastering Spark with R](https://therinspark.com/intro.html)
@@ -67,7 +62,30 @@ Good luck!
 
 
 <!--
-Dave Dalpiaz website: https://daviddalpiaz.org/
+
+**Applied Statistics**: [Applied Statistics with R](https://book.stat420.org/)
+
+This book serves as an introduction to statistics in R and an introduction to the R programming language. It was designed for use with STAT 420, Methods of Applied Statistics, at the University of Illinois Urbana-Champaign. It is a good place to start if you have some prior experience with statitsics.
+
+
+-->
+
+<!--
+Dave Dalpiaz website (and not already here): https://daviddalpiaz.org/
+- [Atomic R](https://book.stat385.org/)
+- [R Coding Basics](https://www.gastonsanchez.com/R-coding-basics/)
+- [Deep R Programming](https://deepr.gagolewski.com/)
+- [R Packages](https://r-pkgs.org/)
+- [R Markdown](https://bookdown.org/yihui/rmarkdown/)
+- [Github](https://happygitwithr.com/)
+- [Stat 545, Data Wrangling](https://stat545.com/)
+- [Efficient R Programming](https://csgillespie.github.io/efficientR/)
+- [What they forgot to teach you about R](https://rstats.wtf/)
+- [The R Inferno](https://www.burns-stat.com/documents/books/the-r-inferno/)
+- [The R Manuals](https://rstudio.github.io/r-manuals/)
+- [Posit Cheatsheets](https://posit.co/resources/cheatsheets/)
+
+
 
 https://cares.gse.harvard.edu/
 - [Designing Monte Carlo Simulations in R](https://jepusto.github.io/Designing-Simulations-in-R/)
