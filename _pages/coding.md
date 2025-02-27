@@ -49,3 +49,11 @@ There are many good AI tools for coding assistance. I recommend Cursor. It provi
 
 
 Good luck!
+
+<!--
+https://cares.gse.harvard.edu/
+- [Designing Monte Carlo Simulations in R](https://jepusto.github.io/Designing-Simulations-in-R/)
+- [Matching Guide](https://cares-blog.gse.harvard.edu/post/matching-guide-pt-1/)
+
+
+-->
