@@ -7,17 +7,25 @@ author_profile: true
 
 Many colleagues have asked me about resources for learning R, Python, and causal inference statistics. I'm not expert enough in Python to recommend good learning resources, but here are some good resources for learning the basics of R, how to use R for particular tasks, and for learning the basics of causal inference.
 
-These are all free, online resources. They give you code that you can easily copy & paste into your R console, which allows you to play around with R and learn by doing. I recommend starting with the first resource (R for Data Science) and then selecting other options based on your learning interests.
+These are all free, online resources. They give you code that you can easily copy & paste into your R console, which allows you to play around with R and learn by doing. If you are brand new to coding, I recommend starting with the first resource (Hands-On Programming with R) and then selecting other options based on your learning interests.
 
 
 
 ********
 
+**Getting Started**: [Hands-On Programming with R](https://rstudio-education.github.io/hopr/)
+
+This book will teach you the basics of programming in R. It is written it for non-programmers and provides a friendly introduction to the R language. Throughout the book, you’ll use your newfound skills to solve practical data science problems. Start here.
 
 
-**Getting started**: [R for Data Science](https://r4ds.hadley.nz)
+**Data Science**: [R for Data Science](https://r4ds.hadley.nz)
 
-This online book will walk you through everything you need to get started using R for data science. It is comprehensive and will provide you with a solid foundation for learning to do other tasks in R.  Start here.
+This online book will walk you through everything you need to get started using R for data science. It is comprehensive and will provide you with a solid foundation for learning to do other tasks in R. This is a good place to start if you have some prior experience with R.
+
+
+**Applied Statistics**: [Applied Statistics with R](https://book.stat420.org/)
+
+This book serves as an introduction to statistics in R and an introduction to the R programming language. It was designed for use with STAT 420, Methods of Applied Statistics, at the University of Illinois Urbana-Champaign. It is a good place to start if you have some prior experience with statitsics.
 
 
 **Machine learning**: [Basics of Statistical Learning](https://statisticallearning.org/index.html)
@@ -57,7 +65,10 @@ There are many good AI tools for coding assistance. I recommend Cursor. It provi
 
 Good luck!
 
+
 <!--
+Dave Dalpiaz website: https://daviddalpiaz.org/
+
 https://cares.gse.harvard.edu/
 - [Designing Monte Carlo Simulations in R](https://jepusto.github.io/Designing-Simulations-in-R/)
 - [Matching Guide](https://cares-blog.gse.harvard.edu/post/matching-guide-pt-1/)
@@ -109,4 +120,50 @@ Game Theory with Scott Page
 NLP
 Calculus
 Matrix Algebra
+
+
+**From methods materials documnet**
+Statistics & Programming Textbook
+-	[Statistical Modeling: A Fresh Approach](https://dtkaplan.github.io/SM2-bookdown/) # fantastic but kind of dated.
+-	[Research Methods Knowledge Base](https://conjointly.com/kb/)
+
+Stats & Programming Resources
+-	Regex cheatsheet (here, here)
+-	Extreme Bounds analysis in R
+-	Which Bootstrap When
+
+Field Experiments
+-	EGAP Learning Days: Theory and Practice of Field Experiments
+-	OES Methods Guides
+
+Quasi-experimental
+-	Causal Inference for the Brave and True
+-	Causal Inference Mixtape
+-	DiD
+-	Medium
+-	Generalized DiD article
+-	DiD AnnRev
+-	Simple: DIME diff-in-diff
+-	Pischke diff-in-diff
+-	OES Quasi-experimental designs
+-	Causality, Applications, and Research in Education and Statistics (C.A.R.E.S. Lab)
+-	Ex: Matching Guide
+
+Qualitative research
+-	Best guide: Seawright and Gerring 2008: case selection: a menu of qualitative and quantitative options
+-	Good blog summary of most similar & most different
+-	Old classics
+-	Collier 1991, 1993
+-	Lijphart 1971
+-	Process-tracing
+-	Beach and Pedersen 2012 Guide
+-	Bennet 2012 practitioner guide
+-	Collier 2011 - Understanding Process Tracing
+-	Ricks and Liu 5 page guide
+
+General
+-	https://www.povertyactionlab.org/sites/default/files/research-resources/2016.08.31-Impact-Evaluation-Methods.pdf
+
+
+
 -->
