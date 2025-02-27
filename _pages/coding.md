@@ -5,7 +5,7 @@ title: "Learning to Code"
 author_profile: true
 ---
 
-Many colleagues have asked me about resources for learning R, Python, and causal inference statistics. I'm not expert enough in Python to recommend good learning resources, but here I've recommended my favorite resources for learning the basics of R, how to use R for particular tasks, and for learning the basics of causal inference.
+Many colleagues have asked me about resources for learning R, Python, and causal inference statistics. I'm not expert enough in Python to recommend good learning resources, but here I've recommended my favorite resources for learning the basics of R, how to use R for particular tasks, and for learning the basics of causal inference. Anyone can learn to code, and these resources help bring out the coder in all of us.
 
 These are all free, online resources. They give you code that you can easily copy & paste into your R console, which allows you to play around with R and learn by doing. To keep the list manageable, I've limited it to one resource for learning the basics of R, five resources for learning how to use R for specific tasks, and one resource for causal inference in R.
 
@@ -62,12 +62,11 @@ This excellent book "introduces students and practitioners to the methods necess
 
 [Cursor](https://www.cursor.com/en)
 
-There are many good AI tools for coding assistance. I recommend Cursor. It provides a text editor where you can write your code, and a built in AI chat window that can see the code in the text editor, recommend improvements, and even copy the improvements directly into the text editor. It also allows you to select from several AI language models.
+Learning a coding language is much like learning any other language. The guides on this page will help, but sometimes you need a translator. AI coding tools can function like a translator, both (1) translating your words into a coding language, and (2) translating code into words understandable to you. This does not mean AI will code for you; using a translator requires you to know what you want to say, to say it precisely, and (sometimes) to identify when the translator has made a mistake!  But I have found these AI translators very helpful, especially for learning new tasks and for troubleshooting when code goes wrong.
 
-
+There are many good AI tools for coding assistance, but I recommend Cursor. It provides a text editor where you can write your code, and a built in AI chat window that can see the code in the text editor, explain what the code is doing, and recommend improvements. It also allows you to interact with several AI language models.
 
 Good luck!
-
 
 <!--
 
