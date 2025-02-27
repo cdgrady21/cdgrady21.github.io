@@ -154,38 +154,35 @@ Statistics & Programming Textbook
 -	[Research Methods Knowledge Base](https://conjointly.com/kb/)
 
 Stats & Programming Resources
--	Regex cheatsheet (here, here)
--	Extreme Bounds analysis in R
--	Which Bootstrap When
+-	Regex cheatsheet: https://www.rexegg.com/regex-quickstart.php, https://www.rexegg.com/regex-disambiguation.php#lookahead
+-	Extreme Bounds analysis in R (https://www.jstatsoft.org/article/view/v072i09)
+-	[Which Bootstrap When](https://www.stat.cmu.edu/~cshalizi/uADA/13/lectures/which-bootstrap-when.pdf)
 
 Field Experiments
--	EGAP Learning Days: Theory and Practice of Field Experiments
--	OES Methods Guides
+-	EGAP Learning Days: Theory and Practice of Field Experiments(https://egap.github.io/theory_and_practice_of_field_experiments/)
+-	OES Methods Guides(https://oes.gsa.gov/methods/)
+- [EGAP Methods Guides](https://egap.org/methods-guides/)
 
 Quasi-experimental
--	Causal Inference for the Brave and True
--	Causal Inference Mixtape
--	DiD
--	Medium
--	Generalized DiD article
--	DiD AnnRev
--	Simple: DIME diff-in-diff
--	Pischke diff-in-diff
+- [Generalized DiD article](https://journals.sagepub.com/doi/10.1177/0049124114566717#:~:text=The%20modified%20DD%20is%20a,using%20the%20two%20pretreatment%20periods.)
+-	[DiD AnnRev](https://www.annualreviews.org/deliver/fulltext/publhealth/39/1/annurev-publhealth-040617-013507.pdf?itemId=/content/journals/10.1146/annurev-publhealth-040617-013507&mimeType=application/pdf)
+-	[Pischke diff-in-diff](https://econ.lse.ac.uk/staff/spischke/ec533/did.pdf)
 -	OES Quasi-experimental designs
 -	Causality, Applications, and Research in Education and Statistics (C.A.R.E.S. Lab)
 -	Ex: Matching Guide
 
 Qualitative research
--	Best guide: Seawright and Gerring 2008: case selection: a menu of qualitative and quantitative options
--	Good blog summary of most similar & most different
+-	Best guide: [Seawright and Gerring 2008: case selection: a menu of qualitative and quantitative options](https://aceproject.org/electoral-advice/archive/questions/replies/614466876/555642411/Gerring-Case-selection-Techniques-in-Case-Study.pdf)
+-	[Good blog summary of most similar & most different](https://socialscientificresearch.wordpress.com/2017/02/20/seminar-5-how-to-select-cases-and-make-comparisons/)
 -	Old classics
--	Collier 1991, 1993
--	Lijphart 1971
+-	Collier [1991](https://escholarship.org/content/qt53f5g5rp/qt53f5g5rp.pdf), [1993]9https://escholarship.org/content/qt25v8z2xs/qt25v8z2xs.pdf)
+-	[Lijphart 1971](https://www.la.utexas.edu/users/chenry/core/Course%20Materials/Lijphart1971/0.pdf)
 -	Process-tracing
--	Beach and Pedersen 2012 Guide
--	Bennet 2012 practitioner guide
--	Collier 2011 - Understanding Process Tracing
--	Ricks and Liu 5 page guide
+-	Beach and Pedersen 2012 Foundation and Methods [Guide](https://dpsa.dk/papers/Case%20selection%20in%20PT%20-%20Beach%20and%20Pedersen%20-%202nd%20draft(1)(1).pdf)
+-	Bennet 2012 practitioner guide(https://summit.sfu.ca/_flysystem/fedora/sfu_migrate/14884/SimonsWorkingPaper21.pdf)
+-	[Collier 2011 - Understanding Process Tracing]https://escholarship.org/content/qt4fh4z41c/qt4fh4z41c.pdf)
+-	[Ricks and Liu 5 page guide](https://www.researchgate.net/profile/Amy-Liu-13/publication/326270250_Process-Tracing_Research_Designs_A_Practical_Guide/links/5c96f71a92851cf0ae93f1b9/Process-Tracing-Research-Designs-A-Practical-Guide.pdf)
+- [Ricks and Liu long](https://www.cambridge.org/core/journals/ps-political-science-and-politics/article/processtracing-research-designs-a-practical-guide/1AD4062D94FD81299724B41699D1972E)
 
 General
 -	https://www.povertyactionlab.org/sites/default/files/research-resources/2016.08.31-Impact-Evaluation-Methods.pdf
