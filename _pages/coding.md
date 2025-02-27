@@ -5,19 +5,20 @@ title: "Learning to Code"
 author_profile: true
 ---
 
-Many colleagues have asked me about resources for learning R, Python, and causal inference statistics. I'm not expert enough in Python to recommend good learning resources, but here are some good resources for learning the basics of R, how to use R for particular tasks, and for learning the basics of causal inference.
+Many colleagues have asked me about resources for learning R, Python, and causal inference statistics. I'm not expert enough in Python to recommend good learning resources, but here I've recommended my favorite resources resources for learning the basics of R, how to use R for particular tasks, and for learning the basics of causal inference. To keep the list manageable, I've limited it to one resource for learning the basics of R, five resources for learning how to use R for specific tasks, and one causal inference resource.
 
 These are all free, online resources. They give you code that you can easily copy & paste into your R console, which allows you to play around with R and learn by doing. If you are brand new to coding, I recommend starting with the first resource (Hands-On Programming with R) and then selecting other options based on your learning interests.
 
 
 
 ********
+# Learning R
 
-**Getting Started**: [Hands-On Programming with R](https://rstudio-education.github.io/hopr/)
+[Hands-On Programming with R](https://rstudio-education.github.io/hopr/)
 
 This book will teach you the basics of programming in R. It is written it for non-programmers and provides a friendly introduction to the R language. Throughout the book, you’ll use your newfound skills to solve practical data science problems. Start here.
 
-&nbsp;
+# Using R for specific tasks
 
 **Data Science**: [R for Data Science](https://r4ds.hadley.nz)
 
@@ -43,17 +44,15 @@ This is "a practical guide that provides more than 150 recipes to help you gener
 
 "This book is designed to take you from knowing nothing about Shiny to being an expert developer who can write large complex apps that are still maintainable and performant. You’ll gain a deep understanding of the reactive programming model that underlies Shiny, as well as building a tool box of useful techniques to solve common app challenges."
 
+# Causal Inference
 
-**Causal inference**: [Causal Inference: The Mixtape](https://mixtape.scunning.com/) 
+[Causal Inference: The Mixtape](https://mixtape.scunning.com/) 
 
 This excellent book "introduces students and practitioners to the methods necessary to arrive at meaningful answers to the questions of causation, using a range of modeling techniques and coding instructions for both the R and the Stata programming languages."  Go here to learn about matching, difference-in-differences, regression discontinuity, synthetic controls, and more.
 
-**Causal inference**: [Causal Inference for The Brave and True](https://matheusfacure.github.io/python-causality-handbook/landing-page.html)
+# Bonus: General coding assistance
 
-This book describes itself as "A light-hearted yet rigorous approach to learning impact estimation and sensitivity analysis. Everything in Python and with as many memes as I could find."  I fully endorse that description. It is somewhat similar to the Causal Inference Mixtape, but with two major differences: (1) the coding examples are in Python, and (2) it's second part also goes into some predictive modeling and machine learning applications.
-
-
-**General coding assistance**: [Cursor](https://www.cursor.com/en)
+[Cursor](https://www.cursor.com/en)
 
 There are many good AI tools for coding assistance. I recommend Cursor. It provides a text editor where you can write your code, and a built in AI chat window that can see the code in the text editor, recommend improvements, and even copy the improvements directly into the text editor. It also allows you to select from several AI language models.
 
@@ -68,7 +67,9 @@ Good luck!
 
 This book serves as an introduction to statistics in R and an introduction to the R programming language. It was designed for use with STAT 420, Methods of Applied Statistics, at the University of Illinois Urbana-Champaign. It is a good place to start if you have some prior experience with statitsics.
 
+**Causal inference**: [Causal Inference for The Brave and True](https://matheusfacure.github.io/python-causality-handbook/landing-page.html)
 
+This book describes itself as "A light-hearted yet rigorous approach to learning impact estimation and sensitivity analysis. Everything in Python and with as many memes as I could find."  I fully endorse that description. It is somewhat similar to the Causal Inference Mixtape, but with two major differences: (1) the coding examples are in Python, and (2) it's second part also goes into some predictive modeling and machine learning applications.
 -->
 
 <!--
