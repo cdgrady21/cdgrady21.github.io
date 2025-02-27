@@ -37,12 +37,12 @@ This is "a practical guide that provides more than 150 recipes to help you gener
 
 This excellent book "introduces students and practitioners to the methods necessary to arrive at meaningful answers to the questions of causation, using a range of modeling techniques and coding instructions for both the R and the Stata programming languages."  Go here to learn about matching, difference-in-differences, regression discontinuity, synthetic controls, and more.
 
-**Causal Inference** [Causal Inference for The Brave and True](https://matheusfacure.github.io/python-causality-handbook/landing-page.html)
+**Causal Inference**: [Causal Inference for The Brave and True](https://matheusfacure.github.io/python-causality-handbook/landing-page.html)
 
 This book describes itself as "A light-hearted yet rigorous approach to learning impact estimation and sensitivity analysis. Everything in Python and with as many memes as I could find."  it is somewhat similar to the Causal Inference Mixtape, but with two major differences: (1) the coding examples are in Python, and (2) it's second part also goes into some predictive modeling and machine learning applications.
 
 
-**General coding assistance** [Cursor](https://www.cursor.com/en)
+**General coding assistance**: [Cursor](https://www.cursor.com/en)
 
 There are many good AI tools for coding assistance. I recommend Cursor. It provides a text editor where you can write your code, and a built in AI chat window that can see the code in the text editor, recommend improvements, and even copy the improvements directly into the text editor. It also allows you to select from several AI language models.
 
