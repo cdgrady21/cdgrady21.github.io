@@ -1,3 +1,10 @@
+---
+layout: archive
+permalink: /coding/
+title: "Learning to Code"
+author_profile: true
+---
+
 Many colleagues have asked me about resources for learning R, Python, and causal inference statistics. I'm not expert enough in Python to recommend good learning resources, but here are some good resources for learning the basics of R, how to use R for particular tasks, and for learning the basics of causal inference statistics.
 
 These are all free, online resources. They give you code that you can easily copy & paste into your R console, which allows you to play around with R and learn by doing. I recommend starting with the first resource (R for Data Science) and then selecting other options based on your learning interests.
