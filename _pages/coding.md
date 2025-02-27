@@ -56,6 +56,8 @@ This is "a practical guide that provides more than 150 recipes to help you gener
 
 This excellent book "introduces students and practitioners to the methods necessary to arrive at meaningful answers to the questions of causation, using a range of modeling techniques and coding instructions for both the R and the Stata programming languages."  Go here to learn about matching, difference-in-differences, regression discontinuity, synthetic controls, and more.
 
+&nbsp;
+
 # Bonus: General coding assistance
 
 [Cursor](https://www.cursor.com/en)
