@@ -11,8 +11,6 @@ These are all free, online resources. They give you code that you can easily cop
 
 If you are brand new to coding, I recommend starting with the first resource (Hands-On Programming with R) and then selecting other options based on your learning interests.
 
-&nbsp;
-
 ********
 # Learning R
 
