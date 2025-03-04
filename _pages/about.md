@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a political scientist with substantive interests in behavioral science, international development, intergroup conflict, and taxation<!--psychology, media and observational learning, learning and behavior -->. My methodological expertise is in experimental design and causal inference. I am generally interested in interventions to improve human well-being and in manifestations of comittment problems and collective action problems.
+I am a political scientist with substantive interests in behavioral science, international development, intergroup conflict, and taxation<!--psychology, media and observational learning, learning and behavior -->. My methodological expertise is in experimental design, survey research, and causal inference. I am generally interested in interventions to improve human well-being and in manifestations of comittment problems and collective action problems.
 
 My dissertation examined the effects of conflict prevention programs in northern Nigeria.  I have collaborated with NGOs Equal Access International and Mercy Corps on academic and policy work throughout Africa.  My dissertation work was featured in the article "Why Do We See So Many Things as 'Us vs. Them'?" in the April 2018 issue of National Geographic and published in Proceedings of the National Academy of Sciences in 2023.
 
