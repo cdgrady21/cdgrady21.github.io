@@ -5,6 +5,49 @@ permalink: /talks/
 author_profile: true
 ---
 
+## Select Policy Presentations
+
+"Synthetic Control Analysis of the Presidential Initiative for Democratic Renewal." Bureau for Democracy, Rights, and Governance, 2024, Washington, D.C.
+
+"Randomized Evaluations of DRG Activities." USAID Office of Chief Economist, 2024, Washington, D.C.
+
+"How will we know if it worked? Randomized Controlled Trials and Quasi-Experiments." USAID DRG Global Gathering, 2024, Washington, D.C.
+
+"Research in the Bureau for Democracy, Human Rights, and Governance." Evidence in Governance and Politics Convening, 2023, Mexico City, Mexico. 
+
+"Recent Advances in Quasi-Experimental Research Methods." Bureau for Democracy, Rights, and Governance Annual Learning Forum, 2023, Washington, D.C.
+
+"Findings from the 2021 Zambia Electoral Assessment." USAID/Zambia and US Embassy of Zambia, 2022, Lusaka, Zambia.
+
+"Mixed-Methods Evaluations of Development Programs." Peace and Security Summit, 2022, Washington, D.C.
+
+<!--
+EGAP 2022: Research in the Center for Democracy, Human Rights, and Governance
+
+Annual Learning Forum 2024 - Did we succeed? All you ever wanted to know but were afraid to ask about developing robust outcome indicators
+
+Presentation to State Dept: "Findings from the Youth Engagement Survey Experiment"
+
+DRG Fundamentals 2021 - What is Democracy
+
+Impact Evaluations (for USAID/Iraq in 2024)
+
+Democracy Data (for USAID/Peru and USAID/Zambia in 2020)
+
+Peace and Security Council - Designing and Evaluating a Social Cohesion Intervention in Mali
+
+Social and Behavioral Change CoP 2022 - "Lessons from Failed Research: How do I fail thee? Let Me Count the Ways"
+
+DRG Spark Talk 2021 - Learning, Evidence, and Analysis Platform
+
+DRG Spark Talk 2021 - Democracy Data Visualizations
+
+DRG Global Gathering 2023 - "Lessons from Social Cohesion Research"
+
+DRG Global Gathering 2021 - "Democracy Delivers: The Tangible Benefits of Democracy"
+-->
+
+
 ## Select Academic Presentations
 
 "Can an Information Campaign about Taxation and Improved Service Delivery Increase Tax Compliance?" United States Agency for International Development, 2021, Washington, D.C. <!--Social and Behavioral Change CoP-->
@@ -56,47 +99,6 @@ University of Illinois Faculty-Student Series 2016 – “Engaging Communities f
 MPSA 2014 – “Playing to Your Audience: The Medium of Information and Information’s Effectiveness”
 -->
 
-## Select Policy Presentations
-
-"Synthetic Control Analysis of the Presidential Initiative for Democratic Renewal." Bureau for Democracy, Rights, and Governance, 2024, Washington, D.C.
-
-"Randomized Evaluations of DRG Activities." USAID Office of Chief Economist, 2024, Washington, D.C.
-
-"How will we know if it worked? Randomized Controlled Trials and Quasi-Experiments." USAID DRG Global Gathering, 2024, Washington, D.C.
-
-"Research in the Bureau for Democracy, Human Rights, and Governance." Evidence in Governance and Politics Convening, 2023, Mexico City, Mexico. 
-
-"Recent Advances in Quasi-Experimental Research Methods." Bureau for Democracy, Rights, and Governance Annual Learning Forum, 2023, Washington, D.C.
-
-"Findings from the 2021 Zambia Electoral Assessment." USAID/Zambia and US Embassy of Zambia, 2022, Lusaka, Zambia.
-
-"Mixed-Methods Evaluations of Development Programs." Peace and Security Summit, 2022, Washington, D.C.
-
-<!--
-EGAP 2022: Research in the Center for Democracy, Human Rights, and Governance
-
-Annual Learning Forum 2024 - Did we succeed? All you ever wanted to know but were afraid to ask about developing robust outcome indicators
-
-Presentation to State Dept: "Findings from the Youth Engagement Survey Experiment"
-
-DRG Fundamentals 2021 - What is Democracy
-
-Impact Evaluations (for USAID/Iraq in 2024)
-
-Democracy Data (for USAID/Peru and USAID/Zambia in 2020)
-
-Peace and Security Council - Designing and Evaluating a Social Cohesion Intervention in Mali
-
-Social and Behavioral Change CoP 2022 - "Lessons from Failed Research: How do I fail thee? Let Me Count the Ways"
-
-DRG Spark Talk 2021 - Learning, Evidence, and Analysis Platform
-
-DRG Spark Talk 2021 - Democracy Data Visualizations
-
-DRG Global Gathering 2023 - "Lessons from Social Cohesion Research"
-
-DRG Global Gathering 2021 - "Democracy Delivers: The Tangible Benefits of Democracy"
--->
 
 <!--
 ## Select Guest Lectures
