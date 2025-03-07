@@ -16,6 +16,8 @@ Gustavo Diaz, **Christopher Grady**, and James Kuklinski. "Survey Experiments an
 
 
 ## Methodology Guides
+Jake Bowers, **Christopher Grady**, and Gustavo Diaz. "Estimating Average Treatment Effects in Block Randomized Experiments: A Conversation at the No Rules of Thumb Cafe." [EGAP Standards Discussion](https://egap.org/resource/sd-block-rand/), 2021.
+
 **Christopher Grady**. "10 Things to Know about Survey Experiments." [EGAP Methods Guides](https://egap.org/resource/10-things-to-know-about-survey-experiments), 2020.
 
 **Christopher Grady** and Nuole Chen. "10 Things to Know about Pre-Analysis Plans." [EGAP Methods Guides](https://egap.org/methods-guides/10-things-pre-analysis-plans), 2019.
