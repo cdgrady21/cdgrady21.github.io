@@ -14,4 +14,4 @@ My dissertation examined the effects of conflict prevention programs in northern
 
 My research has been funded by the National Science Foundation, International Foundation for Electoral Systems, and Evidence in Governance and Politics.  I received my AA from Grand Rapids Community College, my BA in Political Science from the University of Michigan, and my PhD in Political Science from the University of Illinois.
 
-I am now the Senior Metrics Advisor for USAID's Bureau for Democracy, Rights, and Governance. I also serve on the Board of Directors for [EGAP](https://egap.org/about/) and as a Research Fellow at the Research on International Policy Implementation Lab ([RIPIL](https://www.ripilab.com/about) at American University.
+I am now the Senior Metrics Advisor for USAID's Bureau for Democracy, Rights, and Governance. I also serve on the Board of Directors for [EGAP](https://egap.org/about/) and as a Research Fellow at the Research on International Policy Implementation Lab ([RIPIL](https://www.ripilab.com/about)) at American University.
