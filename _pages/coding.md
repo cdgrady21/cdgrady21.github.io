@@ -5,7 +5,7 @@ title: "Learning to Code"
 author_profile: true
 ---
 
-Many colleagues have asked me about resources for learning R, Python, and causal inference statistics. I'm not expert enough in Python to recommend good learning resources, but these are my favorite resources for learning the basics of R and for learning to use R for particular tasks (like causal inference). Anyone can learn to code, and these resources help bring out the coder in all of us.
+Many colleagues have asked me about resources for learning R, Python, and causal inference statistics. I'm not an expert in Python and so don't feel comfortable recommending Python learning resources, but these are my favorite resources for learning the basics of R and for learning to use R for particular tasks (like causal inference). Anyone can learn to code, and these resources help bring out the coder in all of us.
 
 These are all free, online resources. They give you code that you can easily copy & paste into your R console, which allows you to play around with R and learn by doing. To keep the list manageable, I've limited it to one resource for learning the basics of R and five resources for learning to use R for specific tasks.
 
@@ -86,7 +86,9 @@ Dave Dalpiaz website (and not already here): https://daviddalpiaz.org/
 - [The R Manuals](https://rstudio.github.io/r-manuals/)
 - [Posit Cheatsheets](https://posit.co/resources/cheatsheets/)
 
-
+Causal inference and Econometrics
+- [Program Evaluation for Public Service](https://evalsp23.classes.andrewheiss.com/
+- [Scott Cunningham (Causal Inference Mixtape guy) Substack](https://causalinf.substack.com/)
 
 https://cares.gse.harvard.edu/
 - [Designing Monte Carlo Simulations in R](https://jepusto.github.io/Designing-Simulations-in-R/)
@@ -127,8 +129,9 @@ https://www.aeaweb.org/articles?id=10.1257/jep.31.2.33
 - Basic R tutorials
 https://r4ds.hadley.nz (see ch.24 on web scraping)
 
-- Advanced R
-http://adv-r.had.co.nz/
+Advanced R
+- http://adv-r.had.co.nz/
+- [Andrew Heiss blog](https://www.andrewheiss.com/blog/)
 
 - Python
 https://www.codecademy.com/learn/learn-python-3
