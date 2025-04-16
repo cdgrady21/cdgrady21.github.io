@@ -5,11 +5,11 @@ title: "Learning to Code"
 author_profile: true
 ---
 
-Many colleagues have asked me about resources for learning R, Python, and causal inference statistics. I'm not an expert in Python and so don't feel comfortable recommending Python learning resources, but these are my favorite resources for learning the basics of R and for learning to use R for particular tasks (like causal inference). Anyone can learn to code, and these resources help bring out the coder in all of us.
+Many colleagues have asked me about resources for learning R, Python, and causal inference methods. I'm not an expert in Python and so don't feel comfortable recommending Python learning resources, but these are my favorite resources for learning the basics of R and for learning to use R for particular tasks (like causal inference). Anyone can learn to code, and these resources help bring out the coder in all of us.
 
 These are all free, online resources. They give you code that you can easily copy & paste into your R console, which allows you to play around with R and learn by doing. To keep the list manageable, I've limited it to one resource for learning the basics of R and five resources for learning to use R for specific tasks.
 
-If you are brand new to coding, I recommend starting with the first resource (Hands-On Programming with R) and then selecting other options based on your learning interests.
+If you are brand new to coding, I recommend starting with the first resource (Hands-On Programming with R) and then selecting other options based on your learning interests. And if you also want an introduction to statistics, check out [Statistical Modeling](https://dtkaplan.github.io/SM2-bookdown/) (or, like, [Khan Academy](https://www.khanacademy.org/math/statistics-probability).
 
 ********
 # Learning R
@@ -57,6 +57,10 @@ There are many good AI tools for coding assistance, but I recommend [Cursor](htt
 Good luck!
 
 <!--
+
+**Basic Statistics**: [Statistical Modeling](https://dtkaplan.github.io/SM2-bookdown/)
+
+The purpose of this book is to provide an introduction to statistics that gives readers a sufficient mastery of statistical concepts, methods, and computations to apply them to authentic systems. By “authentic,” I mean the sort of multivariable systems often encountered when working in the natural or social sciences, commerce, government, law, or any of the many contexts in which data are collected with an eye to understanding how things work or to making predictions about what will happen.
 
 **Applied Statistics**: [Applied Statistics with R](https://book.stat420.org/)
 
