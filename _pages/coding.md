@@ -9,7 +9,7 @@ Many colleagues have asked me about resources for learning R, Python, and causal
 
 These are all free, online resources. They give you code that you can easily copy & paste into your R console, which allows you to play around with R and learn by doing. To keep the list manageable, I've limited it to one resource for learning the basics of R and five resources for learning to use R for specific tasks.
 
-If you are brand new to coding, I recommend starting with the first resource (Hands-On Programming with R) and then selecting other options based on your learning interests. And if you also want an introduction to statistics, check out [Statistical Modeling](https://dtkaplan.github.io/SM2-bookdown/) (or, like, [Khan Academy](https://www.khanacademy.org/math/statistics-probability).
+If you are brand new to coding, I recommend starting with the first resource (Hands-On Programming with R) and then selecting other options based on your learning interests. And if you also want an introduction to statistics, check out [Statistical Modeling](https://dtkaplan.github.io/SM2-bookdown/) (or, like, [Khan Academy](https://www.khanacademy.org/math/statistics-probability)).
 
 ********
 # Learning R
