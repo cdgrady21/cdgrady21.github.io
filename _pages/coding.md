@@ -29,7 +29,7 @@ This online book will walk you through everything you need to get started using 
 
 **Causal Inference**: [Causal Inference: The Mixtape](https://mixtape.scunning.com/) 
 
-This excellent book "introduces students and practitioners to the methods necessary to arrive at meaningful answers to the questions of causation, using a range of modeling techniques and coding instructions for both the R and the Stata programming languages."  Go here to learn about matching, difference-in-differences, regression discontinuity, synthetic controls, and more.
+This excellent book "introduces students and practitioners to the methods necessary to arrive at meaningful answers to the questions of causation, using a range of modeling techniques and coding instructions for both the R and the Stata programming languages."  Go here to learn about matching, difference-in-differences, regression discontinuity, synthetic controls, and more. And check out their [Mixtape Sessions](https://github.com/Mixtape-Sessions) for even more.
 
 
 **Machine learning**: [Basics of Statistical Learning](https://statisticallearning.org/index.html)
