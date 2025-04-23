@@ -11,7 +11,7 @@ I co-write a weekly research newsletter called _This Week in Social Science_.  Y
 
 ## Bureau of Democracy, Rights, and Governance
 
-Some of my writing while at USAID was for public consumption. I've posted a few of them here.
+Some of my writing while at USAID was for public consumption. I've some of that writing here.
 
 *NOTE: The United States Agency for International Development hass been shut down, so the public links to these writings may break in the near future.*
 
@@ -38,4 +38,6 @@ Some of my writing while at USAID was for public consumption. I've posted a few 
 
 ### Weekly "Facty Friday" Newsletter
 
-I founded USAID's weekly research newsletter, Facty Friday. Facty Friday summarized two academic studies in 300 words or less each week, telling readers what the researchers did, what they found, and why it matters for international development. My colleagues and I wrote these every week for almost three years and posted them on [DRGLinks](https://www.drglinks.org/facty-friday/) as a public good for the international development community.  If DRGLinks is taken down and you'd like access, contact me by email: cdgrady21[at]gmail[dot]com.
+I founded USAID's weekly research newsletter, Facty Friday. Facty Friday summarized two academic studies in 300 words or less each week, telling readers what the researchers did, what they found, and why it matters for international development. My colleagues and I wrote these every week for almost three years and posted them on [DRGLinks](https://www.drglinks.org/facty-friday/) as a public good for the international development community.
+
+If DRGLinks is taken down and you'd like access Facty Friday, contact me by email: cdgrady21[at]gmail[dot]com.
