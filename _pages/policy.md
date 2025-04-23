@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Other Writing"
-permalink: /policy/
+permalink: /writing/
 author_profile: true
 ---
 
