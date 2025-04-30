@@ -13,7 +13,7 @@ I co-write a weekly research newsletter called _This Week in Social Science_.  Y
 
 Some of my writing while at USAID was for public consumption. I've some of that writing here.
 
-*NOTE: The United States Agency for International Development hass been shut down, so the public links to these writings may break in the near future.*
+*NOTE: The United States Agency for International Development has been shut down, so the public links to these writings may break in the near future.*
 
 ### Monthly "Learning Digest" Newsletter
 [A Case for Democracy (Part 1): Public Goods Provision, Social Protections, Education, and Health.](https://content.govdelivery.com/accounts/USAIDHQ/bulletins/33a5081)
