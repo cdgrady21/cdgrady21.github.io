@@ -9,7 +9,7 @@ author_profile: true
 
 I co-write a weekly research newsletter called _This Week in Social Science_.  You can find it on my [Substack](https://substack.com/@cdgrady21). We summarize two social science articles each week, saying what the researchers did, what they found, and why it matters.
 
-## EI ResearcH Partners: Insights
+## EI Research Partners: Insights
 
 [Reducing the influence of false information](https://www.eiresearchpartners.com/insights/reducing-the-influence-of-false-information)
 
