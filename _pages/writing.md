@@ -17,7 +17,7 @@ I co-write a weekly research newsletter called _This Week in Social Science_.  Y
 
 ## Bureau of Democracy, Rights, and Governance
 
-Some of my writing while at USAID was for public consumption. I've some of that writing here.
+Some of my writing while at USAID was for public consumption. I've posted some of that writing here.
 
 *NOTE: The United States Agency for International Development has been shut down, so the public links to these writings may break in the near future.*
 
