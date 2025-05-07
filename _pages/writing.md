@@ -9,6 +9,12 @@ author_profile: true
 
 I co-write a weekly research newsletter called _This Week in Social Science_.  You can find it on my [Substack](https://substack.com/@cdgrady21). We summarize two social science articles each week, saying what the researchers did, what they found, and why it matters.
 
+## EI ResearcH Partners: Insights
+
+[Reducing the influence of false information](https://www.eiresearchpartners.com/insights/reducing-the-influence-of-false-information)
+
+[The effects of repression on nonprofit organizations](https://www.eiresearchpartners.com/insights/the-effects-of-repression-on-nonprofit-organizations)
+
 ## Bureau of Democracy, Rights, and Governance
 
 Some of my writing while at USAID was for public consumption. I've some of that writing here.
@@ -33,7 +39,6 @@ Some of my writing while at USAID was for public consumption. I've some of that 
 [Democracy Metrics 2021: Democracy Under Threat.](https://www.drglinks.org/learning-digest/annual-democracy-metrics-2021)
 
 [Democracy Metrics Survey Edition: Findings from International Surveys.](https://www.drglinks.org/learning-digest/findings-international-surveys-2021)
-
 
 
 ### Weekly "Facty Friday" Newsletter
