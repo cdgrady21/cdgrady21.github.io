@@ -24,7 +24,7 @@ Jake Bowers, **Christopher Grady**, and Gustavo Diaz. "Estimating Average Treatm
 
 
 ## Policy Reports
-Danjuma Dawop, **Christopher Grady**, Lisa Inks, and Rebecca Wolfe. "Engaging Communities for Peace in Nigeria: Impact Evaluation." [Mercy Corps Reports](https://www.corps.org/research/does-peacebuilding-work-midst-conflict), 2019.
+Danjuma Dawop, **Christopher Grady**, Lisa Inks, and Rebecca Wolfe. "Engaging Communities for Peace in Nigeria: Impact Evaluation." [Mercy Corps Reports](https://www.mercycorps.org/research-resources/does-peacebuilding-work-midst-conflict), 2019.
 
 **Christopher Grady**. "Aid For Peace: Does Foreign Aid Deter Violence?" [International Foundation for Electoral Systems Fellowship Report](https://scholar.google.fi/citations?view_op=view_citation&hl=fr&user=EzZKouQAAAAJ&citation_for_view=EzZKouQAAAAJ:u5HHmVD_uO8C), 2017.
 
