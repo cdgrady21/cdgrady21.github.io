@@ -16,4 +16,4 @@ My research has been funded by the National Science Foundation, International Fo
 
 I was formerly Senior Metrics Advisor for USAID's Bureau for Democracy, Rights, and Governance. I am currently a partner and board member for [EI Research Partners](https://www.eiresearchpartners.com/partners). I also serve on the Board of Directors for Evidence in Governance and Politics [(EGAP)](https://egap.org/about/). I am also a Research Affiliate for [MIT GOV/LAB](https://mitgovlab.org/people/chris-grady/) and a Research Fellow at the Research on International Policy Implementation Lab ([RIPIL](https://www.ripilab.com/about)) at American University.
 
-I co-write [_This Week in Social Science_](https://substack.com/@twissweekly) with my colleague, Levi Adelman. We summarize two social science articles each week, saying what the researchers did, what they found, and why it matters.
+I co-write [_This Week in Social Science_](https://substack.com/@twissweekly) with my colleague, [Levi Adelman](https://scholar.google.com/citations?user=xIv67rwAAAAJ&hl=en). We summarize two social science articles each week, saying what the researchers did, what they found, and why it matters.
