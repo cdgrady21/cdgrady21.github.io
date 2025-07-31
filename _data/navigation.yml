@@ -18,6 +18,6 @@ main:
   - title: "Learning to Code"
     url: /coding/
     
-#  - title: "Resume/CV"
- #   url: /cv/
+  - title: "CV"
+    url: /CV/
 
