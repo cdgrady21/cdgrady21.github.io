@@ -5,7 +5,7 @@ title: "Bio"
 author_profile: true
 ---
 
-I am from Grand Rapids, MI.  After high school, I attended Grand Rapids Community College before transferring to the University of Michigan (Go Blue!).  After graduation I worked for Environment Michigan and then accepted admission to the University of Illinois. Now I am the Senior Metrics Advisor at USAID's Bureau for Democracy, Rights, and Governance.
+I am from Grand Rapids, MI.  After high school, I attended Grand Rapids Community College before transferring to the University of Michigan (Go Blue!).  After graduation I worked for Environment Michigan and then accepted admission to the University of Illinois. I was then the Senior Metrics Advisor at USAID's Bureau for Democracy, Rights, and Governance until USAID closed.
 
 <!--I pursue research with two goals in mind: (1) develop and refine theories that teach us about political behavior and (2) bring evidence to policy debates.  Those goals have attracted me to survey experiments and collaborations with NGOs and governments to implement field experiments, but I am also interested in longitudinal analyses, lab experiments, and causal inference statistics.-->
 
