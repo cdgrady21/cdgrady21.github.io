@@ -54,6 +54,8 @@ Learning a coding language is much like learning any other language. The guides 
 
 There are many good AI tools for coding assistance, but I recommend [Cursor](https://www.cursor.com/en). It provides a text editor where you can write your code, and a built in AI chat window that can see the code in the text editor, explain what the code is doing, and recommend improvements. It also allows you to interact with several AI language models.
 
+[Edit: I've recently found and love [Tilburg Science Hub](https://tilburgsciencehub.com/) for all kinds of coding and methodological information. Try it out!]
+
 Good luck!
 
 <!--
