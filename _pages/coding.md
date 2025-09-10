@@ -94,6 +94,7 @@ Causal inference and Econometrics
 - [Program Evaluation for Public Service](https://evalsp23.classes.andrewheiss.com/
 - [Scott Cunningham (Causal Inference Mixtape guy) Substack](https://causalinf.substack.com/)
 - [The Effect](https://theeffectbook.net/introduction.html)
+- [Econometrics in R](https://www.econometrics-with-r.org/index.html)
 
 https://cares.gse.harvard.edu/
 - [Designing Monte Carlo Simulations in R](https://jepusto.github.io/Designing-Simulations-in-R/)
