@@ -113,9 +113,10 @@ https://www.altexsoft.com/blog/apache-spark-pros-cons/
 https://shiny.posit.co/r/getstarted/shiny-basics/lesson1/
 https://mastering-shiny.org/
 
-- Data Viz
+- Data Viz / Data visualizations
 https://ggplot2.tidyverse.org/
 - https://r-graphics.org/
+- [Miles' textbook](https://milesdwilliams15.quarto.pub/dpr-101-data-visualization-for-political-research/)
 
 - Statistical Learning
 https://statisticallearning.org/index.html
