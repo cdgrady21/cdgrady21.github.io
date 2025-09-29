@@ -12,7 +12,7 @@ I am a political scientist with substantive interests in behavioral science, int
 
 I co-write [_This Week in Social Science_](https://substack.com/@twissweekly) with my colleague, [Levi Adelman](https://scholar.google.com/citations?user=xIv67rwAAAAJ&hl=en). We summarize two social science articles each week, saying what the researchers did, what they found, and why it matters. _TWISS_ makes the latest insights from social science accessible to anyone.
 
-I have collaborated with NGOs Equal Access International and Mercy Corps on academic and policy work throughout Africa.  My dissertation work was featured in the article ["Why Do We See So Many Things as 'Us vs. Them'?"](https://www.nationalgeographic.com/magazine/article/things-that-divide-us) in the April 2018 issue of National Geographic and published in Proceedings of the National Academy of Sciences in 2023.
+I have collaborated with NGOs Equal Access International and Mercy Corps on academic and policy work throughout Africa.  My dissertation work was featured in the article ["Why Do We See So Many Things as 'Us vs. Them'?"](https://www.nationalgeographic.com/magazine/article/things-that-divide-us) in the April 2018 issue of National Geographic and published in [_Proceedings of the National Academy of Sciences_](https://www.pnas.org/doi/full/10.1073/pnas.2304882120) in 2023.
 
 My research has been funded by the National Science Foundation, International Foundation for Electoral Systems, and Evidence in Governance and Politics.  I received my AA from Grand Rapids Community College, my BA in Political Science from the University of Michigan, and my PhD in Political Science from the University of Illinois.
 
