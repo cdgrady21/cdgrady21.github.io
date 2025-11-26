@@ -31,6 +31,9 @@ This online book will walk you through everything you need to get started using 
 
 This excellent book "introduces students and practitioners to the methods necessary to arrive at meaningful answers to the questions of causation, using a range of modeling techniques and coding instructions for both the R and the Stata programming languages."  Go here to learn about matching, difference-in-differences, regression discontinuity, synthetic controls, and more. And check out their [Mixtape Sessions](https://github.com/Mixtape-Sessions) for even more.
 
+**Causal Inference**: [Interactive Causal Inference](https://lbynum.github.io/interactive-causal-inference/)
+
+Shorter and more accessible than cauasl inference mixtape, this short online book includes many illustrations, interactive tables and plots, and a running example to explain randomized and observational causal inference. And it's fun!
 
 **Machine learning**: [Basics of Statistical Learning](https://statisticallearning.org/index.html)
 
@@ -102,6 +105,11 @@ https://cares.gse.harvard.edu/
 - [Designing Monte Carlo Simulations in R](https://jepusto.github.io/Designing-Simulations-in-R/)
 - [Matching Guide](https://cares-blog.gse.harvard.edu/post/matching-guide-pt-1/)
 
+General Statistics
+- [StatQuest](https://www.youtube.com/@statquest). Best YouTube Stats ever.
+- [Introducing Statistics: A Graphic Guide](https://shop.exacteditions.com/us/introducing-statistics-a-graphic-guide). That book is short, fun, super accessible, and gives a brief history of the main ideas in statistics. I could recommend more comprehensive books, but I think people will actually read the Graphic Guide.
+- 
+
 - SPARK with R and Python
 https://therinspark.com/intro.html
 	- CERN example: https://db-blog.web.cern.ch/blog/luca-canali/2017-08-apache-spark-and-cern-open-data-example
@@ -133,7 +141,6 @@ https://www.reddit.com/r/academiceconomics/comments/uqfovo/can_anyone_explain_wh
 - https://people.sabanciuniv.edu/atilgan/FE500_Fall2013/2Nov2013_CevdetAkcay/LucasCritique_1976.pdf
 - https://editorialexpress.com/jrust/econ615/readings/keane_article_je.pdf
 https://www.aeaweb.org/articles?id=10.1257/jep.31.2.33
-
 
 - Basic R tutorials
 https://r4ds.hadley.nz (see ch.24 on web scraping)
